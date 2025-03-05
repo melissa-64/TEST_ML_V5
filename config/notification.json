@@ -1,0 +1,54 @@
+{
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "announcement",
+            "title": "IRIS IS NOW EVOLVING !",
+            "message": "Discover our new MUTLILOADER experience with awesome features ! \nYou can also find our best product via our website.",
+            "startDate": "2025-02-15T00:00:00Z",
+            "endDate": "2025-03-27T23:59:59Z",
+            "displayDuration": 5000,
+            "priority": "high"
+        },
+        {
+            "id": "notif3",
+            "type": "discount",
+            "title": "SEASON 2 DISCOUNT",
+            "message": "GET 20% DISCOUNT ON ALL PRODUCTS !",
+            "startDate": "2025-02-01T00:00:00Z",
+            "endDate": "2025-03-07T23:59:59Z",
+            "displayDuration": 7000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "GET DISCOUNT",
+                    "url": "https://iriscorp.mysellauth.com/product/camos-services"
+                },
+                "secondary": {
+                    "text": "LEARN MORE",
+                    "url": "https://iriscorp.mysellauth.com/"
+                }
+            }
+        },
+        {
+            "id": "notif5",
+            "type": "warning",
+            "title": "BE CAREFUL EVERYONE !",
+            "message": "We are aware of the ongoing issues with MW3 tools ! Please stay off them",
+            "startDate": "2025-02-15T00:00:00Z",
+            "endDate": "2025-03-27T23:59:59Z",
+            "displayDuration": 5000,
+            "priority": "normal"
+        },
+        {
+            "id": "notif2",
+            "type": "announcement",
+            "title": "Hey",
+            "message": "INSTALLE SPLITGATE2 AHHH FOUUUUUUUUUUUUUUUUUUUUUUUUU",
+            "startDate": "2025-03-01T14:59:20Z",
+            "endDate": "2025-03-01T16:59:20Z",
+            "displayDuration": 5000,
+            "priority": "high"
+        }
+    ]
+}

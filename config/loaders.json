@@ -1,0 +1,49 @@
+{
+    "loaders": [
+        {
+            "id": "VALORANT EXTERNAL",
+            "name": "VALORANT EXTERNAL CHAIR",
+            "categoryId": "valorant",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT1.1.exe",
+            "status": "updating",
+            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+        },
+        {
+            "id": "FORTNITE EXTERNAL",
+            "name": "FORTNITE EXTERNAL CHAIR",
+            "categoryId": "fortnite",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/fortnite-external-chair"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "others",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "BO6 UNLOCK ALL",
+            "name": "BO6 UNLOCK ALL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Auth_NB.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        },
+        {
+            "id": "PROGRESS",
+            "name": "BO6 EXTERNAL PROGRESS",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG_1.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
+        }
+    ]
+}

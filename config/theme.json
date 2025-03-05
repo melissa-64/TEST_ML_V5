@@ -1,0 +1,48 @@
+{
+    "theme": {
+        "core": {
+            "primary": "#FF0000",
+            "secondary": "#202020",
+            "accent": "#FF0000",
+            "scrollbar": "#FF0000"
+        },
+        "text": {
+            "primary": "#FFFFFF",
+            "secondary": "#D0D0D0"
+        },
+        "button": {
+            "category": "#FF0000",
+            "action": "#FF0000"
+        },
+        "background": {
+            "main": "#121212",
+            "custom-image": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/lavba-flowing-through-dark-rocky-terrain-with-larg-2025-02-02-07-20-31-utc.jpeg",
+            "background-anim": false
+        },
+        "fixed": {
+            "titleBar": "#121212"
+        },
+        "border": {
+            "radius": {
+                "small": "6px",
+                "medium": "8px",
+                "large": "12px"
+            }
+        },
+        "effects": {
+            "shadow": {
+                "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
+                "medium": "0 4px 8px rgba(0, 0, 0, 0.3)",
+                "large": "0 20px 40px -15px rgba(0, 0, 0, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
+            },
+            "blur": {
+                "small": "4px",
+                "medium": "8px",
+                "large": "12px"
+            }
+        },
+        "settings": {
+            "defaultListView": true
+        }
+    }
+}
