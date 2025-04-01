@@ -3,8 +3,8 @@
         {
             "id": "notif2",
             "type": "announcement",
-            "title": "Salut a toi jeune entrepreneur !",
-            "message": "NEW MULTILOADER V2 IS OUT !",
+            "title": "THE MULTILOADER V5 IS NOW OUT!",
+            "message": "Get access to this advanced experience and enhance your business.",
             "startDate": "2025-03-01T14:59:20Z",
             "endDate": "2026-03-20T16:59:20Z",
             "displayDuration": 5000,
@@ -40,15 +40,5 @@
             "displayDuration": 5000,
             "priority": "high"
         },
-        {
-            "id": "notif4",
-            "type": "announcement",
-            "title": "THANKS FOR THE 15000 MEMBERS",
-            "message": "We are pleased to be here with you, the last 2 years offering high quality exeperience made me very proud !",
-            "startDate": "2025-03-01T14:59:20Z",
-            "endDate": "2026-03-20T16:59:20Z",
-            "displayDuration": 5000,
-            "priority": "low"
-        }
     ]
 }
