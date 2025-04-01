@@ -3,6 +3,15 @@
         {
             "id": "Loader 1",
             "name": "Loader 1",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+        },
+        {
+            "id": "Loader 1",
+            "name": "Loader 1",
             "categoryId": "r6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
