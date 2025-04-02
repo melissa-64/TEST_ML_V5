@@ -1,7 +1,7 @@
 {
     "notifications": [
         {
-            "id": "notif2",
+            "id": "notif1",
             "type": "announcement",
             "title": "THE MULTILOADER V5 IS NOW OUT!",
             "message": "Get access to this advanced experience and enhance your business.",
@@ -11,7 +11,7 @@
             "priority": "high"
         },
         {
-            "id": "notif1",
+            "id": "notif2",
             "type": "discount",
             "title": "- 30% ON PRODUCT!",
             "message": "Announce discounts to effectively engage your customers.",
