@@ -5,15 +5,15 @@
             "secondary": "#b30000",
             "border": "#FF0000",
             "divider": "#252525",
-            "scrollbar": "#FF0000"
+            "scrollbar": "#303030"
         },
         "text": {
             "primary": "#ffffff",
             "secondary": "#3d3d3d"
         },
         "button": {
-            "category": "#ff2b00",
-            "action": "#ff2b00"
+            "category": "#252525",
+            "action": "#252525"
         },
         "background": {
             "main": "#050505",
