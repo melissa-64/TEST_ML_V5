@@ -8,17 +8,17 @@
             "startDate": "2025-03-01T14:59:20Z",
             "endDate": "2026-04-20T16:59:20Z",
             "displayDuration": 5000,
-            "priority": "normal"
+            "priority": "high"
         },
         {
             "id": "notif1",
             "type": "discount",
-            "title": "40% ON THE NEW bo6 UNLOCKER",
-            "message": "This unlock all is simply the best one ever released on the market, enjoy a smooth experience with no bans risk !",
+            "title": "- 30% ON PRODUCT!",
+            "message": "Announce discounts to effectively engage your customers.",
             "startDate": "2025-03-01T14:59:20Z",
             "endDate": "2026-04-20T16:59:20Z",
             "displayDuration": 5000,
-            "priority": "high",
+            "priority": "normal",
             "cta": {
                 "primary": {
                     "text": "GET DISCOUNT",
@@ -33,12 +33,12 @@
         {
             "id": "notif3",
             "type": "warning",
-            "title": "BE CAREFUL WHILE USING THE MW3 CHAIR ON ZOMBIE",
-            "message": "THIS CHAIR IS BEING ACTUALLY RISKY TO USE !",
+            "title": "PRODUCT N* IN STANDBY!",
+            "message": "Keep your customers informed with real-time notifications.",
             "startDate": "2025-03-01T14:59:20Z",
             "endDate": "2026-04-20T16:59:20Z",
             "displayDuration": 5000,
-            "priority": "high"
+            "priority": "low"
         }
     ]
 }
