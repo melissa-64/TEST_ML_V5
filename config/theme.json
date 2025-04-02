@@ -1,9 +1,9 @@
 {
     "theme": {
         "core": {
-            "primary": "#151515",
+            "primary": "#252525",
             "secondary": "#b30000",
-            "border": "#101010",
+            "border": "#151515",
             "divider": "#252525",
             "scrollbar": "#FF0000"
         },
