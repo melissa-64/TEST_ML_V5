@@ -1,4 +1,5 @@
 {
+    "enabled": true,
     "checks": [
         {
             "key": "VirtualizationEnabled",
@@ -9,7 +10,7 @@
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/secure-boot"
@@ -22,19 +23,19 @@
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "Windows11_24H2",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
@@ -47,7 +48,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         }
