@@ -3,39 +3,39 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/virtualization"
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/secure-boot"
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "Windows11_24H2",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
