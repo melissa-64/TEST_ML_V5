@@ -10,7 +10,7 @@
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/secure-boot"
@@ -23,7 +23,7 @@
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
@@ -48,7 +48,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         }
