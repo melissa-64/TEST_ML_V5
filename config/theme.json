@@ -20,7 +20,7 @@
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
-            "background-anim": "snow"
+            "background-anim": "none"
         },
         "border": {
             "radius": {
