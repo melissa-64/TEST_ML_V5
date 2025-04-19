@@ -1,7 +1,7 @@
 {
     "loaders": [
         {
-            "id": "Loader",
+            "id": "Loader1",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -10,7 +10,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader2",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -19,7 +19,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader3",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -28,7 +28,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader4",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -37,7 +37,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader5",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -46,7 +46,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader6",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -55,7 +55,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader7",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -64,7 +64,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader8",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
@@ -73,7 +73,7 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader",
+            "id": "Loader9",
             "name": "Loader",
             "categoryId": "bo6",
             "imageUrl": "",
