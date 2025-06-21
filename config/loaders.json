@@ -46,21 +46,21 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Loader6",
-            "name": "Loader6",
-            "categoryId": "cs2",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
             "id": "Loader7",
             "name": "Loader7",
             "categoryId": "cs2",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "offline",
+            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+        },
+        {
+            "id": "Loader6",
+            "name": "Loader6",
+            "categoryId": "cs2",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
