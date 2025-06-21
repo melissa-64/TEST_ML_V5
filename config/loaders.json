@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "Loader1",
-            "name": "Loader",
+            "name": "Loader1",
             "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -11,7 +11,7 @@
         },
         {
             "id": "Loader2",
-            "name": "Loader",
+            "name": "Loader2",
             "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -20,7 +20,7 @@
         },
         {
             "id": "Loader3",
-            "name": "Loader",
+            "name": "Loader3",
             "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -29,7 +29,7 @@
         },
         {
             "id": "Loader4",
-            "name": "Loader",
+            "name": "Loader4",
             "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -38,7 +38,7 @@
         },
         {
             "id": "Loader5",
-            "name": "Loader",
+            "name": "Loader5",
             "categoryId": "mw19",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -47,7 +47,7 @@
         },
         {
             "id": "Loader6",
-            "name": "Loader",
+            "name": "Loader6",
             "categoryId": "cs2",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -56,7 +56,7 @@
         },
         {
             "id": "Loader7",
-            "name": "Loader",
+            "name": "Loader7",
             "categoryId": "cs2",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -65,7 +65,7 @@
         },
         {
             "id": "Loader8",
-            "name": "Loader",
+            "name": "Loader8",
             "categoryId": "hhl",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
@@ -74,7 +74,7 @@
         },
         {
             "id": "Loader9",
-            "name": "Loader",
+            "name": "Loader9",
             "categoryId": "ftn",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
