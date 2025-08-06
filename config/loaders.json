@@ -4,10 +4,10 @@
             "id": "TEST",
             "name": "TEST",
             "categoryId": "bo6",
-            "downloadUrl": "https://media.discordapp.net/attachments/1125752520229273630/1187816557364133929/BANNER_AV_SERV_v1_2.gif?ex=68579b9f&is=68564a1f&hm=acd81de8c1fc9ee6937a4a65b6439b2a4287d80532bc064469f0f1c7b2a53b5c&=&width=400&height=84",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
             "imageUrl": "",
-            "productUrl": ""
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader2",
@@ -16,7 +16,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader3",
@@ -25,7 +25,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader4",
@@ -34,7 +34,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader5",
@@ -43,7 +43,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader7",
@@ -52,7 +52,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "offline",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader6",
@@ -61,7 +61,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader8",
@@ -70,7 +70,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader9",
@@ -79,7 +79,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         },
         {
             "id": "Loader1",
@@ -88,7 +88,7 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://discord.com/"
         }
     ]
 }
