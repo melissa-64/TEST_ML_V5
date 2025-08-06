@@ -1,8 +1,8 @@
 {
     "loaders": [
         {
-            "id": "TEST",
-            "name": "TEST",
+            "id": "Loader1",
+            "name": "Loader1",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
