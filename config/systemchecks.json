@@ -6,14 +6,14 @@
             "expectedValue": false,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/virtualization"
+            "tutorialLink": ""
         },
         {
             "key": "SecureBootDisabled",
             "expectedValue": true,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/secure-boot"
+            "tutorialLink": ""
         },
         {
             "key": "HyperVDisabled",
