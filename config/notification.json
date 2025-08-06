@@ -3,7 +3,7 @@
         {
             "id": "notif1",
             "type": "announcement",
-            "title": "THE MULTILOADER V5 IS NOW OUT!",
+            "title": "MULTILOADER V1.8 is now available !",
             "message": "Get access to this advanced experience and enhance your business.",
             "startDate": "2025-03-01T14:59:20Z",
             "endDate": "2026-04-20T16:59:20Z",
@@ -33,7 +33,7 @@
         {
             "id": "notif3",
             "type": "warning",
-            "title": "PRODUCT N* IN STANDBY!",
+            "title": "PRODUCT 3 IN STANDBY!",
             "message": "Keep your customers informed with real-time notifications.",
             "startDate": "2025-03-01T14:59:20Z",
             "endDate": "2026-04-20T16:59:20Z",
