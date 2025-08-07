@@ -19,7 +19,7 @@
             "main": "#050505",
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
-            "logoImage": "",
+            "logoImage": "https://cdn.discordapp.com/attachments/1360300118330441838/1402599101773905930/ML_V5_LOGO_NOBG.png?ex=6895d134&is=68947fb4&hm=22e87a100239fb76927f1f27a3627b314d4cccff95144d47e56116168943c6d4&",
             "background-anim": "snow"
         },
         "border": {
