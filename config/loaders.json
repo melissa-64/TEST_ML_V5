@@ -1,27 +1,250 @@
 {
     "loaders": [
         {
-            "id": "Crusader R6",
-            "name": "Crusader R6",
-            "categoryId": "r6",
+            "id": "Web Loader",
+            "name": "Web Loader1",
+            "categoryId": "bo6",
             "contentType": "web_downloadable",
-            "downloadUrl": "https://uniqueloader.com/r6s/",
+            "downloadUrl": "https://google.com",
             "version": "1.3",
             "status": "online",
             "imageUrl": "",
             "productUrl": "",
-            "instructions": "## SIMPLE INSTRUCTIONS:\r\nPlease follow our Simple Instructions to get started with our products. If you are familiar with other products, these should already be what you are used to\/have set up. These are REQUIRED for our products!\r\n\r\n1.  Use UEFI Boot instead of Legacy (if not already).\r\n    \r\n2.  Use Default Discord Client! Altcords will NOT work!\r\n    \r\n3.  In Discord Overlay, Enable \u201CEnable Legacy Game Overlay\u201D.\r\n    \r\n4.  In Discord Overlay, Enable Overlay for Tom Clancy's R6S.\r\n    \r\n5.  Be sure it doesn't state \u201Cinitializing\u201D when you enter the game!\r\n        \r\n7.  In Discord Overlay, Disable \u201CEnable Game Overlay\u201D.\r\n    \r\n\r\n**DEFAULT DISCORD CLIENT IS REQUIRED. IT WILL NOT WORK WITH ALTCORDS.**\r\n\r\n## GETTING STARTED\r\n\r\n1.  Go to [https:\/\/myloader.cc](https:\/\/myloader.cc) & enter your License Key to download your Unique Loader.\r\n    -   Disable Adblockers if you have any issues downloading\/use a VPN.\r\n2.  Once downloaded, be sure the Game & Anticheat are fully closed. Run our Loader after.\r\n    -   Your computer will restart automatically in order to install our Bypass.\r\n3.  Once your computer has restarted, go to [https:\/\/myloader.cc](https:\/\/myloader.cc) once more and download another unique Loader. Run it and start your Game when it asks.\r\n4.  You are good to go now. You can now start enjoying our Product!\r\n## WEBMENU\r\n\r\n1.  Once Injected, access your Menu by going to [https:\/\/myloader.cc](https:\/\/myloader.cc) & clicking \"Menu\u201D.\r\n2.  All changes are visible live in-game. Enjoy full customization of all options\/features!\r\n3.  Any issues with FPS, be sure to lower the FPS in the \u201CPerformance\u201D tab.\r\n4.  The higher the FPS set, the more CPU the product requires to operate.\r\n\r\n## PROBLEMS & FAQ GUIDE\r\n\r\n### Having Issues with our Product?\r\n\r\n-   All issues will be stated at the top of your webmenu. Follow them to fix 99% of issues!\r\n    \r\n\r\n### Something running causing the product to not start:\r\n\r\n-   Don't run the loader while the game is active. Game must be off.\r\n    \r\n-   Don't run the loader while other games are running with EAC, BE, etc.\r\n    \r\n-   Don't run the loader while AntiViruses\/AntiCheats are running (list below).\r\n    \r\n\r\n### Double check to be sure your device is setup properly:\r\n\r\n-   Secure Boot disabled and UEFI boot enabled.\r\n    \r\n-   Confirm Discord Overlay settings.\r\n    \r\n\r\n### Can't see ESP, but everything else works?\r\n\r\n-   Press their Discord Hotkey and see if it appears. If it doesn't, check discord.\r\n    \r\n-   Must be using OFFICIAL Discord Client! ALTCORDS WON'T WORK.\r\n    \r\n-   Check Discord Overlay settings for \"initializing\" on R6S Overlay.\r\n    \r\n-   Join a Call, talk once, then check if it appears.\r\n    \r\n----------\r\n\r\n## FAQ & SOLUTIONS:\r\n\r\n### Issues & Their Solutions:\r\n\r\n#### ESP not showing\/nothing working:\r\n\r\n-   Check Discord Overlay settings. Legacy must be enabled, Regular Discord Overlay to be disabled, and Overlay for R6S enabled.\r\n    \r\n-   If Status on Overlay (in Discord settings) states \"initializing\", Restart & try again. Still not working? Disable and reenable R6S overlay.\r\n    \r\n-   Join a Discord Call & Talk once to enable the Discord overlay.\r\n    \r\n\r\n#### Product stopped working Mid-game:\r\n\r\n-   Check to see if there was a product update. Our Product uninjects on updates, requiring the user to reinject. This is due to our killswitch.\r\n    \r\n-   Alt Tabbing a lot? This can cause issues with the overlay, which will stop displaying the ESP on Fullscreen. Use Borderless\/Windowed instead.\r\n    \r\n-   Refreshed Discord\/closed it? Discord is required to remain 24\/7, without refresh or anything. This is due to the product using Discord Overlay. Restart game and reinject if so.\r\n    \r\n\r\n#### Unlock All:\r\n\r\n-   Unlock all is strange at times. Sometimes you can select operators that aren't unlocked yet, but sometimes you can't. The rest of the skins\/etc should be fully available for use though.\r\n    \r\n-   Unlock all not working at all? Restart game and reinject.\r\n    \r\n\r\n#### Low FPS\/High CPU Usage:\r\n\r\n-   Check Performance settings in our Web Menu. Set to 60 and check if any improvements are seen. The higher the FPS set here, the more intensive the product will use your CPU.\r\n    \r\n\r\n#### No Active Session Found:\r\n\r\n-   Discord Overlay isn't active. Please check Discord settings and see if the Discord Overlay states \"initializing\". Make sure it's setup properly. Legacy enabled, Normal Overlay disabled, R6S Overlay enabled.\r\n    \r\n-   Close game, download new loader, try again."
+            "instructions": "## SIMPLE INSTRUCTIONS:\r\nPlease follow our Simple Instructions to get started with our products. If you are familiar with other products, these should already be what you are used to\/have set up. These are REQUIRED for our products!\r\n\r\n1.  Use UEFI Boot instead of Legacy (if not already).\r\n    \r\n2.  Use Default Discord Client! Altcords will NOT work!\r\n    \r\n3.  In Discord Overlay, Enable \u201CEnable Legacy Game Overlay\u201D.\r\n    \r\n4.  In Discord Overlay, Enable Overlay for Tom Clancy's R6S.\r\n    \r\n5.  Be sure it doesn't state \u201Cinitializing\u201D when you enter the game!\r\n        \r\n7.  In Discord Overlay, Disable \u201CEnable Game Overlay\u201D.\r\n    \r\n\r\n**DEFAULT DISCORD CLIENT IS REQUIRED. IT WILL NOT WORK WITH ALTCORDS.**\r\n\r\n## GETTING STARTED\r\n\r\n1.  Go to [https://google.com](https://google.com) & enter your License Key to download your Unique Loader.\r\n    -   Disable Adblockers if you have any issues downloading\/use a VPN.\r\n2.  Once downloaded, be sure the Game & Anticheat are fully closed. Run our Loader after.\r\n    -   Your computer will restart automatically in order to install our Bypass.\r\n3.  Once your computer has restarted, go to [https://google.com](https://google.com) once more and download another unique Loader. Run it and start your Game when it asks.\r\n4.  You are good to go now. You can now start enjoying our Product!\r\n## WEBMENU\r\n\r\n1.  Once Injected, access your Menu by going to [https:\/\/myloader.cc](https:\/\/myloader.cc) & clicking \"Menu\u201D.\r\n2.  All changes are visible live in-game. Enjoy full customization of all options\/features!\r\n3.  Any issues with FPS, be sure to lower the FPS in the \u201CPerformance\u201D tab.\r\n4.  The higher the FPS set, the more CPU the product requires to operate.\r\n\r\n## PROBLEMS & FAQ GUIDE\r\n\r\n### Having Issues with our Product?\r\n\r\n-   All issues will be stated at the top of your webmenu. Follow them to fix 99% of issues!\r\n    \r\n\r\n### Something running causing the product to not start:\r\n\r\n-   Don't run the loader while the game is active. Game must be off.\r\n    \r\n-   Don't run the loader while other games are running with EAC, BE, etc.\r\n    \r\n-   Don't run the loader while AntiViruses\/AntiCheats are running (list below).\r\n    \r\n\r\n### Double check to be sure your device is setup properly:\r\n\r\n-   Secure Boot disabled and UEFI boot enabled.\r\n    \r\n-   Confirm Discord Overlay settings.\r\n    \r\n\r\n### Can't see ESP, but everything else works?\r\n\r\n-   Press their Discord Hotkey and see if it appears. If it doesn't, check discord.\r\n    \r\n-   Must be using OFFICIAL Discord Client! ALTCORDS WON'T WORK.\r\n    \r\n-   Check Discord Overlay settings for \"initializing\" on R6S Overlay.\r\n    \r\n-   Join a Call, talk once, then check if it appears.\r\n    \r\n----------\r\n\r\n## FAQ & SOLUTIONS:\r\n\r\n### Issues & Their Solutions:\r\n\r\n#### ESP not showing\/nothing working:\r\n\r\n-   Check Discord Overlay settings. Legacy must be enabled, Regular Discord Overlay to be disabled, and Overlay for R6S enabled.\r\n    \r\n-   If Status on Overlay (in Discord settings) states \"initializing\", Restart & try again. Still not working? Disable and reenable R6S overlay.\r\n    \r\n-   Join a Discord Call & Talk once to enable the Discord overlay.\r\n    \r\n\r\n#### Product stopped working Mid-game:\r\n\r\n-   Check to see if there was a product update. Our Product uninjects on updates, requiring the user to reinject. This is due to our killswitch.\r\n    \r\n-   Alt Tabbing a lot? This can cause issues with the overlay, which will stop displaying the ESP on Fullscreen. Use Borderless\/Windowed instead.\r\n    \r\n-   Refreshed Discord\/closed it? Discord is required to remain 24\/7, without refresh or anything. This is due to the product using Discord Overlay. Restart game and reinject if so.\r\n    \r\n\r\n#### Unlock All:\r\n\r\n-   Unlock all is strange at times. Sometimes you can select operators that aren't unlocked yet, but sometimes you can't. The rest of the skins\/etc should be fully available for use though.\r\n    \r\n-   Unlock all not working at all? Restart game and reinject.\r\n    \r\n\r\n#### Low FPS\/High CPU Usage:\r\n\r\n-   Check Performance settings in our Web Menu. Set to 60 and check if any improvements are seen. The higher the FPS set here, the more intensive the product will use your CPU.\r\n    \r\n\r\n#### No Active Session Found:\r\n\r\n-   Discord Overlay isn't active. Please check Discord settings and see if the Discord Overlay states \"initializing\". Make sure it's setup properly. Legacy enabled, Normal Overlay disabled, R6S Overlay enabled.\r\n    \r\n-   Close game, download new loader, try again."
         },
         {
-            "id": "Inferno R6",
-            "name": "Inferno R6",
-            "categoryId": "r6",
-            "contentType": "document",
-            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/0D_-_Product_Instructions_2.pdf",
-            "status": "online",
+            "id": "Loader2",
+            "name": "Loader2",
+            "categoryId": "bo6",
             "imageUrl": "",
-            "productUrl": "",
-            "instructions": "# 🔥 Inferno R6 - Guide d'Installation Express\n\n## 📋 Vue d'ensemble\n\n**Inferno\n  R6** est un cheat **discret** et **performant** spécialement conçu pour Rainbow Six Siege. Cette version se\n  présente sous forme de **documentation PDF** pour une approche plus sûre.\n\n---\n\n## 📥 Accès aux\n  Instructions\n\n### Méthode principale\n\n1. **Cliquer** sur le bouton de téléchargement ci-dessus\n2. Vous\n  accéderez directement au **PDF d'instructions**\n3. **Télécharger** le document sur votre PC\n4. **Ouvrir** avec\n  Adobe Reader ou votre lecteur PDF\n\n### Informations du document\n\n- **Nom du fichier** :\n  `0D_-_Product_Instructions_2.pdf`\n- **Hébergement** : Cloud sécurisé\n- **Taille** : ~2-3 MB\n- **Pages** :\n  Instructions complètes illustrées\n\n---\n\n## 📖 Contenu du PDF\n\n### Sections principales\n\n1. **🔧 Prérequis\n   système**\n   - Configuration minimale\n   - Logiciels requis\n   - Paramètres Windows\n\n2. **📥 Installation\n  pas à pas**\n   - Téléchargement des fichiers\n   - Processus d'installation\n   - Configuration initiale\n\n3.\n  **🎮 Guide d'utilisation**\n   - Interface du cheat\n   - Contrôles et raccourcis\n   - Réglages\n  recommandés\n\n4. **⚙️ Fonctionnalités**\n   - **ESP** : Vision à travers les murs\n   - **Aimbot** : Assistance\n  de visée\n   - **Misc** : Fonctions diverses\n\n5. **🛡️ Sécurité**\n   - Mesures anti-détection\n   - Conseils\n  d'utilisation\n   - Gestion des risques\n\n---\n\n## 🚨 Points Importants\n\n### ⚠️ Avant de\n  commencer\n\n**OBLIGATOIRE** :\n- Lire **entièrement** le PDF avant installation\n- Utiliser un **compte\n  secondaire** pour les tests\n- **Sauvegarder** ses données importantes\n- **Fermer** tous les antivirus\n  temporairement\n\n### 🔒 Sécurité renforcée\n\nInferno R6 inclut :\n\n- ✅ **Protection anti-screenshot**\n- ✅\n  **Chiffrement des processus**\n- ✅ **Bypass BattlEye avancé**\n- ✅ **Détection d'intrusion**\n- ✅ **Mode\n  furtif**\n\n---\n\n## 🔄 Mise à jour automatique\n\nLe système se met à jour automatiquement :\n\n-\n  **Vérification** : Toutes les heures\n- **Téléchargement** : En arrière-plan\n- **Installation** : Redémarrage\n  automatique\n- **Rollback** : Possible en cas d'erreur\n\n---\n\n## 📞 Support Technique\n\n### En cas de\n  problème\n\n1. **Consulter** d'abord le PDF complet\n2. **Vérifier** la FAQ intégrée\n3. **Redémarrer** le\n  système\n4. **Contacter** le support si nécessaire\n\n### Canaux de support\n\n- 📧 **Email** : Via le formulaire\n   dans le PDF\n- 💬 **Discord** : Lien disponible dans le document\n- 🎫 **Ticket** : Système de support\n  intégré\n- ⏰ **Délai** : Réponse sous 24h\n\n---\n\n*📄 **Instructions complètes** disponibles dans le PDF -\n  Cliquez sur \"Télécharger\" pour accéder au guide détaillé avec captures d'écran.*"
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader3",
+            "name": "Loader3",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader4",
+            "name": "Loader4",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader5",
+            "name": "Loader5",
+            "categoryId": "mw19",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader7",
+            "name": "Loader7",
+            "categoryId": "cs2",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader6",
+            "name": "Loader6",
+            "categoryId": "cs2",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader8",
+            "name": "Loader8",
+            "categoryId": "hll",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader9",
+            "name": "Loader9",
+            "categoryId": "fortnite",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader1",
+            "name": "Loader1",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader10",
+            "name": "Loader10",
+            "categoryId": "mw3",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader11",
+            "name": "Loader11",
+            "categoryId": "mw2",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader12",
+            "name": "Loader12",
+            "categoryId": "valorant",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader13",
+            "name": "Loader13",
+            "categoryId": "fivem",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader14",
+            "name": "Loader14",
+            "categoryId": "rust",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader15",
+            "name": "Loader15",
+            "categoryId": "apex",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader16",
+            "name": "Loader16",
+            "categoryId": "r6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader17",
+            "name": "Loader17",
+            "categoryId": "dl",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader18",
+            "name": "Loader18",
+            "categoryId": "df",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader19",
+            "name": "Loader19",
+            "categoryId": "fp",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader20",
+            "name": "Loader20",
+            "categoryId": "bf",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader21",
+            "name": "Loader21",
+            "categoryId": "mr",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader22",
+            "name": "Loader22",
+            "categoryId": "sd",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "custom",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader23",
+            "name": "Loader23",
+            "categoryId": "h1z1",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader24",
+            "name": "Loader24",
+            "categoryId": "bs",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "offline",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader25",
+            "name": "Loader25",
+            "categoryId": "cm",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "online",
+            "productUrl": "https://discord.com"
+        },
+        {
+            "id": "Loader26",
+            "name": "Loader26",
+            "categoryId": "others",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating",
+            "productUrl": "https://discord.com"
         }
     ]
 }
