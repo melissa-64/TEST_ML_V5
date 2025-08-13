@@ -2,7 +2,7 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": ""
