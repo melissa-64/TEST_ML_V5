@@ -4,7 +4,7 @@
             "key": "VirtualizationEnabled",
             "expectedValue": true,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": ""
         },
         {
