@@ -84,7 +84,7 @@
                     {
                         "key": "SecureBoot",
                         "expectedState": true,
-                        "fixable": false,
+                        "fixable": true,
                         "tutorialLink": ""
                     },
                     {
