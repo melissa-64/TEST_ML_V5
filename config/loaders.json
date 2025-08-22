@@ -25,7 +25,7 @@
                 "requirements": [
                     {
                         "key": "Virtualization",
-                        "expectedState": true,
+                        "expectedState": false,
                         "fixable": false,
                         "tutorialLink": ""
                     }
