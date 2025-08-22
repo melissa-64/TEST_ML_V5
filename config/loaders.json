@@ -83,7 +83,7 @@
                     },
                     {
                         "key": "SecureBoot",
-                        "expectedState": false,
+                        "expectedState": true,
                         "fixable": false,
                         "tutorialLink": ""
                     },
