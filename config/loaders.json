@@ -20,49 +20,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
             "productUrl": "https://discord.com",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "HyperV",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": "https://test.com"
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
         },
         {
             "id": "Loader3",
@@ -72,49 +29,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
             "productUrl": "https://discord.com",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": true,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "HyperV",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    }
-                ]
-            }
         },
         {
             "id": "Loader4",
