@@ -71,7 +71,50 @@
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://discord.com"
+            "productUrl": "https://discord.com",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "HyperV",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    }
+                ]
+            }
         },
         {
             "id": "Loader4",
