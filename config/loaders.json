@@ -27,7 +27,7 @@
                         "key": "Virtualization",
                         "expectedState": false,
                         "fixable": true,
-                        "tutorialLink": ""
+                        "tutorialLink": "test"
                     }
                 ]
             }
