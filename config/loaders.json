@@ -24,16 +24,9 @@
                 "enabled": true,
                 "requirements": [
                     {
-                        "key": "Virtualization",
+                        "key": "DriverBlocklist",
                         "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": "https://test.com"
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
+                        "fixable": true
                     },
                     {
                         "key": "HyperV",
@@ -46,20 +39,27 @@
                         "fixable": true
                     },
                     {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
                         "key": "RiotVanguard",
                         "expectedState": false,
                         "fixable": false,
                         "tutorialLink": ""
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": false,
+                        "fixable": true,
+                        "tutorialLink": "https://test.com"
+                    },
+                    {
+                        "key": "Windows11_24H2",
+                        "expectedState": false,
+                        "fixable": true
                     }
                 ]
             }
