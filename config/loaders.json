@@ -22,7 +22,14 @@
             "productUrl": "https://discord.com",
             "systemRequirement": {
                 "enabled": true,
-                "requirements": []
+                "requirements": [
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    }
+                ]
             }
         },
         {
