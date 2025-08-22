@@ -27,7 +27,7 @@
                         "key": "Virtualization",
                         "expectedState": true,
                         "fixable": false,
-                        "tutorialLink": ""
+                        "tutorialLink": "https://test.com"
                     },
                     {
                         "key": "SecureBoot",
